@@ -4,7 +4,7 @@ spring:
   application:
     name: cache-data-service
   datasource:
-    url: jdbc:mysql://localhost:3306/fcb_onboarding
+    url: jdbc:mysql://localhost:3306/CDS
     username: root
     password:
     driver-class-name: com.mysql.cj.jdbc.Driver
